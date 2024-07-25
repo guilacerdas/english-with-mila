@@ -1,0 +1,4 @@
+const Data = {
+  en: {},
+  pt: {},
+};
