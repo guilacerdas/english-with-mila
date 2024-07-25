@@ -4,7 +4,7 @@ import { FaInstagram, FaLinkedin } from "react-icons/fa6";
 export default function Content() {
   return (
     <>
-      <div className="flex justify-between">
+      <div className="flex justify-between mt-32">
         <div>
           <h1 className="text-2xl lg:text-6xl text-[#541E35]">
             Aprenda inglês com uma latina
