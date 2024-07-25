@@ -1,8 +1,8 @@
 "use client";
 import Image from "next/image";
-import Navbar from "../../public/components/navbar";
-import Content from "../../public/components/content";
-import About from "../../public/components/about";
+import Navbar from "../components/navbar";
+import Content from "../components/content";
+import About from "../components/about";
 
 export default function Home() {
   return (
