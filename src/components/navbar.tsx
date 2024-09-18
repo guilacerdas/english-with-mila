@@ -15,7 +15,7 @@ export default function Navbar() {
             Aulas
           </a>
           <a href="#about" className="text-[#541E35] text-base lg:text-2xl">
-            Sobre
+            Sobre a Professora
           </a>
         </div>
       </div>
